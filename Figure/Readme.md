@@ -1,4 +1,5 @@
 This folder contains all the **visual representation** used in this project including:
+
 BLASTp results (blast.png)
 InterProScan results (InterPro.png)
 3D structure modeling (3Dmodel.png)
