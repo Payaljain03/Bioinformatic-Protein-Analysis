@@ -1,0 +1,22 @@
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	12	34	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	65	84	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	306	323	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	35	66	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	1	11	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	335	357	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	306	328	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	338	357	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	12	34	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Pfam	PF03739	Lipopolysaccharide export system permease LptF/LptG	10	359	1.4E-80	T	09-02-2025	IPR005495	Permease LptG/LptF-related	GO:0016020(InterPro)	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	300	305	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	NCBIfam	TIGR04408	LPS export ABC transporter permease LptG	7	359	2.5E-133	T	09-02-2025	IPR030923	LPS export ABC transporter permease LptG	GO:0043190(InterPro)|GO:0055085(InterPro)	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	127	279	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	PANTHER	PTHR33529	SLR0882 PROTEIN-RELATED	7	360	1.0E-83	T	09-02-2025	IPR005495	Permease LptG/LptF-related	GO:0015920(PANTHER)|GO:0016020(InterPro)|GO:0043190(PANTHER)	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	324	334	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	105	127	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	358	361	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	106	126	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	67	85	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	86	105	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	280	299	-	T	09-02-2025	-	-	-	-
+Sequence1	e7e4e21535e498cad22940dce7cccda6	361	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	280	299	-	T	09-02-2025	-	-	-	-
